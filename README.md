@@ -1,4 +1,4 @@
-# Module 1: Image Processing with MATLAB
+# Image Processing with MATLAB
 
 This directory contains MATLAB scripts demonstrating fundamental image processing techniques, including color channel analysis and object segmentation.
 
@@ -7,7 +7,7 @@ This directory contains MATLAB scripts demonstrating fundamental image processin
 - MATLAB (R2020a or later recommended)
 - Image Processing Toolbox (required for functions such as `imhist`, `imbinarize`, `graythresh`, and `imadjust`)
 
-## 1. RGB Channel Extraction & Binary Conversion (`assignment_1_1.m`)
+## 1. RGB Channel Extraction & Binary Conversion
 
 ### Objective (RGB Channel Extraction)
 
@@ -24,7 +24,7 @@ This script reads a standard RGB color image, separates it into its individual R
 3. Open `assignment_1_1.m` in MATLAB.
 4. Run the script. Two figure windows will be generated: one showing the histograms for each color channel and another displaying the resulting binary images.
 
-## 2. Coin Image Segmentation (`assignment_1_2.m`)
+## 2. Coin Image Segmentation 
 
 ### Objective (Coin Segmentation)
 
